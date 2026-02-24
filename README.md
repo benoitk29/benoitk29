@@ -6,7 +6,7 @@ Engineering student passionate about aeronautics, space, AI, and physics.
 - ### Research Internship – MIT, Aeronautics & Astronautics | Summer 2025
 **Project:** Numerical modeling of particle impact ignition in rocket turbopumps  
 **Summary:** [NASA-relevant project](https://techport.nasa.gov/projects/146887) : computational modeling of particle impact ignition using [Abaqus on a high-performance computing (HPC) cluster](https://orcd-docs.mit.edu/running-jobs/available-resources/) to study ignition mechanisms under extreme conditions in reusable rocket turbopumps. Automated simulation workflows using **Python scripts** for batch processing and parametric studies. Investigated effects of temperature, pressure, particle size, impact angle, and friction on critical ignition speed.  
-**Deliverables:** [Presentation](https://enstafr-my.sharepoint.com/:p:/g/personal/benoit_keryer_ensta-paris_fr/IQArDAlXREliRYT1fA9TIyI2Ac5MoFIC2axJ7_kABx31U-M?e=5BCcYD) | [Report](https://drive.google.com/file/d/1iQAshVvf3S4kn-1E_MCxYuIcdyE6BLGN/view?usp=drive_link)    
+**Deliverables:** [Presentation](https://enstafr-my.sharepoint.com/:p:/g/personal/benoit_keryer_ensta-paris_fr/IQArDAlXREliRYT1fA9TIyI2Ac5MoFIC2axJ7_kABx31U-M?e=5BCcYD) | [Report](https://drive.google.com/file/d/1rvE3Zs0UCgTpAuTwALNLffUg_F1ZeiU5/view?usp=sharing)    
 
 <!--  - **Mini-rocket design & management** – ENST’AIR 2023-2024: rocket reaching 800m, Arduino-based electronics, project president
 - **Satellite mission planning** – ISAE-Supaéro 2025: optimization of observation plans with Java-->
