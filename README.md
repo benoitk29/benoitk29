@@ -20,7 +20,7 @@ Engineering student passionate about aeronautics, space, AI, and physics.
   Designed and implemented a complete 5x5 strategy board game in C, including custom data structures and rule-validation engine.  
   Developed a real-time graphical interface using SDL2 (menus, animations, sounds, GIF support).  
   Implemented AI opponents with Random strategy and Monte Carlo Tree Search (MCTS).  
-  🔗 [Game Rules](https://boulder-nautilus-254.notion.site/Sujet-Complet-515cc36d34f54bbdbf2279ea5b0e4c0b) | [Presentation](https://docs.google.com/presentation/d/1AYfArH9kn7s3fGz1AX5fZRedR4-Xs89c53_yChnpEJU/edit?usp=sharing) | [Source Code](https://github.com/benoitk29/Bobail_local)
+  🔗 [Game Rules](https://en.boardgamearena.com/doc/Gamehelpbobail#:~:text=Each%20player%20has%205%20tokens,cannot%20jump%20over%20other%20tokens) | [Presentation](https://docs.google.com/presentation/d/1AYfArH9kn7s3fGz1AX5fZRedR4-Xs89c53_yChnpEJU/edit?usp=sharing) | [Source Code](https://github.com/benoitk29/Bobail_local)
 
 ### Physics / Simulation
 - **Stokes Equations Solver (MATLAB, FEM P2–P1)** – ENSTA Paris | Nov 2024  
