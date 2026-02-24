@@ -3,13 +3,17 @@ Engineering student passionate about aeronautics, space, AI, and physics.
 ## 💻 Projects
 
 ### Aeronautics & Space
-- ### Research Internship – MIT, Aeronautics & Astronautics | Summer 2025
+- #### Research Internship – MIT, Aeronautics & Astronautics | Summer 2025
 **Project:** Numerical modeling of particle impact ignition in rocket turbopumps  
 **Summary:** [NASA-relevant project](https://techport.nasa.gov/projects/146887) : computational modeling of particle impact ignition using [Abaqus on a high-performance computing (HPC) cluster](https://orcd-docs.mit.edu/running-jobs/available-resources/) to study ignition mechanisms under extreme conditions in reusable rocket turbopumps. Automated simulation workflows using **Python scripts** for batch processing and parametric studies. Investigated effects of temperature, pressure, particle size, impact angle, and friction on critical ignition speed.  
 **Deliverables:** [Presentation](https://enstafr-my.sharepoint.com/:p:/g/personal/benoit_keryer_ensta-paris_fr/IQArDAlXREliRYT1fA9TIyI2Ac5MoFIC2axJ7_kABx31U-M?e=5BCcYD) | [Report](https://drive.google.com/file/d/1rvE3Zs0UCgTpAuTwALNLffUg_F1ZeiU5/view?usp=sharing)    
 
-<!--  - **Mini-rocket design & management** – ENST’AIR 2023-2024: rocket reaching 800m, Arduino-based electronics, project president
-- **Satellite mission planning** – ISAE-Supaéro 2025: optimization of observation plans with Java-->
+<!--  - **Mini-rocket design & management** – ENST’AIR 2023-2024: rocket reaching 800m, Arduino-based electronics, project president -->
+- **Satellite Pass Scheduling Optimization (Python, DOcplex, Cartopy)** – ISAE-Supaero | 2024-2025
+Optimized reactive scheduling of satellite passes to maximize Earth observation coverage while minimizing operational cost.
+Developed heuristic and MILP models (pass selection + booking time optimization) with cost vs. satisfaction trade-off analysis.
+Visualized AOIs, passes, and covered accesses on maps using Cartopy.
+**Deliverables:** [Presentation](https://drive.google.com/file/d/1pNnT3NqMdHZMrvzEVL5A16D2dmHc-Mz5/view?usp=sharing) | [Source Code](https://github.com/benoitk29/satellite_coverage_optimizer)
 
 ### Software / AI
 - **Double Double Laminates Design (AI Research Project, Ongoing)** – ISAE-Supaéro | Since Sep 2025  
