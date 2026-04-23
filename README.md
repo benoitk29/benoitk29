@@ -16,7 +16,8 @@ Optimized reactive scheduling of satellite passes to maximize Earth observation 
 ### Software / AI
 - **Double Double Laminates Design (AI Research Project, Ongoing)** – ISAE-Supaéro | Since Sep 2025  
   Adapted a Variational Autoencoder (VAE) framework for inverse design of Double Double laminate stacking sequences.  
-  Generates designs with desired mechanical properties efficiently, handling sequence constraints and non-uniqueness, outperforming traditional genetic and logic-based methods.
+  Generates designs with desired mechanical properties efficiently, handling sequence constraints and non-uniqueness, outperforming traditional genetic and logic-based methods. [Source Code](https://github.com/benoitk29/satellite_coverage_optimizer](https://github.com/benoitk29/SisyphusLam)
+
 <!-- - **Assistant AMAIA (Computer Vision)** – CNES / Spaceship FR 2025: YOLO/DETR real-time system for space maintenance -->
 - **Bobail Board Game (C, SDL2, AI)** – ENSTA Paris | Mar–Jun 2024  
   Designed and implemented a complete 5x5 strategy board game in C, including custom data structures and rule-validation engine.  
