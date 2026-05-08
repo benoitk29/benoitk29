@@ -36,6 +36,9 @@ Engineering student passionate about aeronautics, space, AI, and physics.
   Implemented variational formulation, linear discretization, mass and stiffness matrix assembly, and linear system resolution. Mesh generation performed with Gmsh.  
   🔗 [Report](https://drive.google.com/file/d/1PWw6TeNDA8PPNJVGPtjPqSpHzezBp5yR/view?usp=sharing) | [Source Code](https://github.com/benoitk29/Poisson_problem_solver)
 
+- **Optimal Candle (Experimental Physics, Spectroscopy, Image Processing)** – ENSTA-Paris | 2024-2025  
+  Experimental study on the influence of candle geometry on luminosity and combustion efficiency. Designed and tested cylindrical, conical, and spherical candles using spectroscopy, video analysis, and thermal modeling to compare spectral and visible luminous power across geometries.  
+  🔗 [Presentation](https://enstafr-my.sharepoint.com/:p:/g/personal/benoit_keryer_ensta-paris_fr/IQBPjFfqBeH4S7QsZNEmb9DGAWYFamJNdn1iVwSLbBu0Vss?e=nW9Vgu)
 <!-- ### Electronics / Mechatronics
 - **Robotic arm** – University of Western Brittany 2022: Arduino-controlled, 3D printed
 - **MSP430 project** – University of Western Brittany 2021: microcontroller game development -->
